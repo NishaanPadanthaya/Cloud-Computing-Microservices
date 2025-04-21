@@ -164,6 +164,9 @@ All services can be accessed through their respective URLs:
    - Check request/response formats
    - Ensure proper authentication if required
 
+## Collaborators
+- [@NishaanPadanthaya](https://github.com/NishaanPadanthaya)
+
 ## Contributing
 
 1. Fork the repository
