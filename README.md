@@ -165,7 +165,7 @@ All services can be accessed through their respective URLs:
    - Ensure proper authentication if required
 
 ## Collaborators
-- [@NishaanPadanthaya](https://github.com/NishaanPadanthaya)
+- [@Mohammed Saqlain](https://github.com/saqlain2204)
 
 ## Contributing
 
