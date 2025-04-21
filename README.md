@@ -89,7 +89,7 @@ This project integrates multiple microservices to create a comprehensive softwar
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd Microservices
+cd Cloud-Computing-Microservices
 ```
 
 2. Start all services using Docker Compose:
