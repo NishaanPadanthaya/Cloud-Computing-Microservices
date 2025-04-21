@@ -18,21 +18,21 @@ This project integrates multiple microservices to create a comprehensive softwar
 - Manages code review requests and feedback
 - Integrates with Calendar and Version Control services
 
-### Forum Service
+### Forum Service - (Integrated with Team - X-Bow Network)
 - **Port**: 8004
 - **API Base URL**: `http://localhost:8004`
 - Built with FastAPI and PostgreSQL
 - Handles discussions, comments, and knowledge sharing
 - Integrates with Calendar and Bug Tracker services
 
-### Calendar Service
+### Calendar Service - (Integrated with Team - Cloud Nine)
 - **Port**: 5000
 - **API Base URL**: `http://localhost:5000`
 - Built with Express.js and MongoDB
 - Manages events and integrates with all other services
 - Provides a unified calendar view for all activities
 
-### Calendar Client (Frontend)
+### Calendar Client (Frontend) - (Integrated with Team - Cloud Nine)
 - **Port**: 3000
 - **URL**: `http://localhost:3000`
 - Built with React
